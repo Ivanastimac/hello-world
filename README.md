@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Hi! My name is Ivana.
+Hello! My name is Ivana.
